@@ -34,5 +34,6 @@ This project focuses on building an end-to-end deep learning pipeline for **mult
 This structured workflow ensures the model is both **robust and scalable**, while demonstrating practical application of deep learning techniques in medical image analysis.
 
 ## 👤 Author
-
+Chiemelie Onu
+AI / ML Engineer
 - 🔗 **GitHub:** https://github.com/1234Godwin  
